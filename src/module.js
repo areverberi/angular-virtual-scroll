@@ -10,4 +10,6 @@ angular.module('sf.virtualScroll', []).constant('sfVirtualScroll', {
 });
 }());
 
-
+if( typeof module !== 'undefined' && module.exports ) {
+      module.exports = 'sf.virtualScroll';
+}
