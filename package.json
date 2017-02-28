@@ -2,7 +2,7 @@
   "author": "Paul Thomas <paul@stackfull.com>",
   "name": "angular-virtual-scroll",
   "main": "dist/angular-virtual-scroll.js",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "dependencies": {
     "angular" : ">=1.0.0"
   },
